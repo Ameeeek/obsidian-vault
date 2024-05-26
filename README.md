@@ -1,0 +1,2 @@
+# obsidian-vault
+obsidian
