@@ -43,3 +43,58 @@ Data digital memiliki banyak tipe dan tujuan. Akan tetapi data dapat diklasifika
 masing masing status merepresentasikan, dimana letak data didalam sistem, dan bagaimana data itu digunakan saat itu juga. 
 Perlu diketahui juga bahwa, status dari suatu data akan berubah dengan sangat cepat dan perlu dipahami secara mendalam masing masing status guna memilih strategi enkripsi yang tepat. untuk pembahasan mengenai status data dan penjagaannya dapat dilihat [[statusDataDanPencegahannya|disini ]]
 
+# Elemen Kriptografi 
+- Algoritma Kriptografi (cipher)
+  Aturan untuk enkripsi dan dekripsi atau fungsi matematika yang digunakan untuk enkripsi dan dekripsi
+- kunci
+  Parameter yang digunakan untuk transformasi enkrips dan dekripsi. Kunci bersifat rahasia, sedangkan algoritma kriptografi tidak rahasia 
+- Pesan 
+  Informasi yang di enkripsi/Dekripsi
+
+![prosesEncryptDecrypt.png](assets/imgs/prosesEncryptDecrypt.png)
+
+# Algoritma Kriptografi
+1. Algoritma Kriptografi Kunci-Simetri (symmetric-key cryptography)
+2. Algoritma Kriptografi Kunci-publik (public-key cryptography)
+3. Fungsi Hash
+
+# Kriptografi Kunci-Simetri
+- symmetric-key cryptography 
+- kunci enkripsi = kunci dekripsi
+![prosesEncryptDecrypt.png](assets/imgs/prosesEncryptDecrypt.png)
+- contoh algoritma kriptografi kunci-simetri: 
+  - DES (Data Encryption Standard)
+  - AES 
+  - Blowfish
+  - SEED
+  - IDEA
+  - GOST 
+  - Serpent 
+  - RC4, RC5
+
+# Kriptografi Kunci-publik
+- kunci enkripsi != kunci dekripsi 
+- kunci enkripsi bersifat publik, sedangkan kunci dekripsi bersifat rahasia
+![cryptoKeyPublic.png](assets/imgs/cryptoKeyPublic.png)
+- Contoh algoritma kunci-publik:
+  - RSA 
+  - ELGamal
+  - Rabin 
+  - Diffie-Helamn Key Exchange 
+  - DSA 
+  - Elliptic Curve Cryptography (ECC)
+![keyPublicIllust.png](assets/imgs/keyPublicIllust.png)
+
+# Fungsi Hash 
+- Mengkompresi pesan menjadi ukuran sangat kecil dan fixed 
+- Sensitif terhadap manupulasi sekecil apapun
+![hash.png](assets/imgs/hash.png)
+
+# Kegunaan Kriptografi 
+1. Kerahasiaan 
+Layanan apapun yang digunakan untuk menjaga isi pesan dari siapapun yang tidak berhak untuk membacanya
+2. Integritas Data 
+Layanan yang menjamin bahwa pesan masih asli/utuh atau belum pernah dimanupulasi selama pengiriman3. Otentikasi
+Layanan yang untuk mengidentifkasi kebenaran pihak-pihak yang berkomunikasi 
+4. Nirpenyangkalan
+Layanan untuk mencegah entitas yang berkomunikasi melakukan penyangkalan, yaitu pengirim pesan menyangkal melakukan pengiriman atau penerima pesan menyangkal telah menerima pesan
