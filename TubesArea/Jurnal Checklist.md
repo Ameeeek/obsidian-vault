@@ -17,3 +17,5 @@ Anggota : Khumaedi, Nugrah Surya Pratama
 - [pengantar kriptografi modern ITB](https://informatika.stei.itb.ac.id/~rinaldi.munir/Kriptografi/2022-2023/11-Kripto-modern-2023.pdf)
 - [merriam-webster, disini saya cuman ambil kriptografi secara etimologi](https://www.merriam-webster.com/dictionary/cryptography)
 - [jatheon, enkripsi data, status data dan perlindungannya](https://jatheon.com/blog/data-at-rest-data-in-motion-data-in-use/)
+- [https://www.researchgate.net/publication/361011154_Proposed_model_for_data_protection_in_information_systems_of_government_institutions]
+- [https://jurnal.itscience.org/index.php/CNAPC/article/view/359/192]
