@@ -19,3 +19,6 @@ Anggota : Khumaedi, Nugrah Surya Pratama
 - [jatheon, enkripsi data, status data dan perlindungannya](https://jatheon.com/blog/data-at-rest-data-in-motion-data-in-use/)
 - [https://www.researchgate.net/publication/361011154_Proposed_model_for_data_protection_in_information_systems_of_government_institutions]
 - [https://jurnal.itscience.org/index.php/CNAPC/article/view/359/192]
+- [survey on modern cryptography](https://www.researchgate.net/publication/355082344_survey_on_modern_cryptography)
+- [cryptography as an operating system](https://sci-hub.se/https://doi.org/10.1145/1124153.1124154)
+- [analyzing modern cryptography](https://www.researchgate.net/publication/369013746_Analyzing_Modern_Cryptography_Techniques_and_Reviewing_their_Timeline_2023)
