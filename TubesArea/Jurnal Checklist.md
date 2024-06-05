@@ -4,10 +4,10 @@ aliases:
   - Langkah Menulis Jurnal Yang Benar
 tags: [Tubes]
 ---
-Judul : Penerapan Teknik Cryptography modern untuk meningkatkan keamanan data pada sistem operasi
+tema : Penerapan Teknik Cryptography modern untuk meningkatkan keamanan data pada sistem operasi
 Anggota : Khumaedi, Nugrah Surya Pratama
 
-- [ ] Baca Sumber Data 
+- [x] Baca Sumber Data 
 - [ ] Bikin Kerangka Berpikir
 - [ ] Menulis Artikel 
 - [ ] Revisi atau Penyuntingan
@@ -22,3 +22,29 @@ Anggota : Khumaedi, Nugrah Surya Pratama
 - [survey on modern cryptography](https://www.researchgate.net/publication/355082344_survey_on_modern_cryptography)
 - [cryptography as an operating system](https://sci-hub.se/https://doi.org/10.1145/1124153.1124154)
 - [analyzing modern cryptography](https://www.researchgate.net/publication/369013746_Analyzing_Modern_Cryptography_Techniques_and_Reviewing_their_Timeline_2023)
+
+# Keypoints
+Some keypoints i'd bring to the article: 
+- the use of Modern cryptography methods which are AES, and the RC4 for securing
+  several data type and states 
+- improving the OCF Framework with the AES and RC4 algorithms for security 
+
+# Titles
+- Penguatan Keamanan Sistem operasi dengan Enkripsi AES dan RC4 pada Kerangka Kerja OCF
+- Keamanan Sistem operasi yang Lebih Baik: Integrasi Enkripsi AES dan RC4 dalam Kerangka OCF
+
+# yt that prolly gonna save my life 
+- [The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor)
+- [The Network Chuck](https://www.youtube.com/c/NetworkChuck)
+
+# yt Keyword 
+- how to create a cryptography security software
+
+# some scenario for the prototyping 
+- create an automated script but just coat it with a "software" or "library"
+type shi u feel me hahaa but that's for the AES scenario ill use a OpenSSL
+- for the data in motion or RC4, i'm still thinking what type of scenario i'm trying to
+  make, but i guess ill make it into a chat room, where the data is constantly in motion right
+  and for the library ill use a pycryptodome ill explain or maybe gpt will explain it for me in the other note 
+- for the WPA3 ill use wpa_supplicant and hostpad for the tools, i guess it'll
+overwrite the config file in the linux environment or sumn like that idk 
