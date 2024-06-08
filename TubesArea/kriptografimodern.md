@@ -13,14 +13,14 @@
 - Kriptografi modern melahirkan konsep baru seperti algoritma kunci-publik,
 kunci simetris, fungsi hash, protokol kriptografi, tanda-tangan digital, generator bilangan acak, skema pembagian kunci dsb 
 
-![DiagramBlokKriptografiModern.png](assets/imgs/DiagramBlokKriptografiModern.png)
+![DiagramBlokKriptografiModern.png](DiagramBlokKriptografiModern.png)
 
 # Bit, Byte, dan Kode Heksadesimal
 - Pesan di dalam cipher modern dienkripsi bit-per-bit atau byte-per-byte, atau
 dalam kelompok bit. 1 byte = 8 bit. 
 - Pada beberapa algoritma kriptografi, pesan direpresentasikan dalam kode
 heksadesimal. 1 kode hex = 4 bit 
-![hex.png](assets/imgs/hex.png)
+![hex.png](hex.png)
 contoh: Pesan 100111010110 dalam kode hex dengan cara membagi pesan menjadi blok 4-bit: 
 1001 1101 0110 = 9D6 
 Jika pesan diproses dalam kelompok bit, maka rangkaian bit pesan dibagi menjadi blok-blok bit berukuran sama. 
@@ -45,4 +45,4 @@ dalam operasi kriptografi, operasi yang paling sering digunakan itu adalah opera
   karakter/blok)
   - enkripsi/dekripsi pesan secara blok per blok bit atau blok per blok byte
 
-![diagramAlirSimetrikCiphers.png](assets/imgs/diagramAlirSimetrikCiphers.png)
+![diagramAlirSimetrikCiphers.png](diagramAlirSimetrikCiphers.png)

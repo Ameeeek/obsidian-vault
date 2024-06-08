@@ -23,7 +23,7 @@ Kriptografi terdiri dari dua proses:
 1. Enkripsi: Transformasi dari plainteks menjadi cipherteks
 2. Dekripsi: Transformasi dari cipherteks menjadi plainteks
 kedua proses memerlukan kunci rahasia 
-![encrypt-decrypt.png](assets/imgs/encrypt-decrypt.png)
+![encrypt-decrypt.png](encrypt-decrypt.png)
 
 # Mengapa Kriptografi saat ini sangat penting? 
 - Untuk menjaga kerahasiaan informasi 
@@ -51,7 +51,7 @@ Perlu diketahui juga bahwa, status dari suatu data akan berubah dengan sangat ce
 - Pesan 
   Informasi yang di enkripsi/Dekripsi
 
-![prosesEncryptDecrypt.png](assets/imgs/prosesEncryptDecrypt.png)
+![prosesEncryptDecrypt.png](prosesEncryptDecrypt.png)
 
 # Algoritma Kriptografi
 1. Algoritma Kriptografi Kunci-Simetri (symmetric-key cryptography)
@@ -61,7 +61,7 @@ Perlu diketahui juga bahwa, status dari suatu data akan berubah dengan sangat ce
 # Kriptografi Kunci-Simetri
 - symmetric-key cryptography 
 - kunci enkripsi = kunci dekripsi
-![prosesEncryptDecrypt.png](assets/imgs/prosesEncryptDecrypt.png)
+![prosesEncryptDecrypt.png](prosesEncryptDecrypt.png)
 - contoh algoritma kriptografi kunci-simetri: 
   - DES (Data Encryption Standard)
   - AES 
@@ -75,7 +75,7 @@ Perlu diketahui juga bahwa, status dari suatu data akan berubah dengan sangat ce
 # Kriptografi Kunci-publik
 - kunci enkripsi != kunci dekripsi 
 - kunci enkripsi bersifat publik, sedangkan kunci dekripsi bersifat rahasia
-![cryptoKeyPublic.png](assets/imgs/cryptoKeyPublic.png)
+![cryptoKeyPublic.png](cryptoKeyPublic.png)
 - Contoh algoritma kunci-publik:
   - RSA 
   - ELGamal
@@ -83,12 +83,12 @@ Perlu diketahui juga bahwa, status dari suatu data akan berubah dengan sangat ce
   - Diffie-Helamn Key Exchange 
   - DSA 
   - Elliptic Curve Cryptography (ECC)
-![keyPublicIllust.png](assets/imgs/keyPublicIllust.png)
+![keyPublicIllust.png](keyPublicIllust.png)
 
 # Fungsi Hash 
 - Mengkompresi pesan menjadi ukuran sangat kecil dan fixed 
 - Sensitif terhadap manupulasi sekecil apapun
-![hash.png](assets/imgs/hash.png)
+![hash.png](hash.png)
 
 # Kegunaan Kriptografi 
 1. Kerahasiaan 
