@@ -1,7 +1,7 @@
 # Lecture 0 - Scratch
 
 # Time Consumed
-~ 1 Hour 40 Minutes (current, di kos abel)
+~ 1 Hour 40 Minutes 
 Timestamp 2:06:57  
 # The Idea of Binary 
 $2^{0} + 2^1 + 2^n$
