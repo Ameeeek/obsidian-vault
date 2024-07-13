@@ -1,0 +1,12 @@
+- Belajar CTF (Persiapan Gemastik sama compfest)
+- Bikin Video CS50 1 per hari 
+- Muaythai kalo nda sore ya siang 
+- lari pagi 
+- Belajar web3
+- Belajar GO
+- Belajar basing sama nihonggo 
+- belajar main uke
+- HERO tiap sabtu
+- belajar freelance 
+- Gamedev
+- olahraga
