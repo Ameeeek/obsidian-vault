@@ -1,5 +1,4 @@
 ---
-id: 1717021781-NIDU
 Ticket: "[[Quran]]"
 ---
 
