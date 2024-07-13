@@ -36,3 +36,7 @@ func hello (name){
 	return "hi " + name
 }
 ```
+
+# Arithmetic Operations 
+Operasi aritmatika di Golang juga tidak berbeda jauh dengan bahasa pemrograman lainnya, saam sama punya +, -, *, % (di go ini itu jatuhnya operasi remainder, dan bukan modulo, untuk modulo dia terletak di package main/math)
+
