@@ -1,9 +1,0 @@
----
-Ticket:
----
-# {{Title}}
-
-
-
-
-### References

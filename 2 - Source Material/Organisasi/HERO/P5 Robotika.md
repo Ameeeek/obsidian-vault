@@ -1,3 +1,8 @@
+---
+tags:
+  - Hero
+  - Organization
+---
 # Komunikasi Organisasi
 pengiriman, dan penerimaan berbagai pesan organisasi di dalam kelompok formal maupun informal dalam organisasi
 

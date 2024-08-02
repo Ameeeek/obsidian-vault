@@ -77,6 +77,7 @@ https://www.youtube.com/watch?v=_8uxB9yaLdQ&t=32s How to set the best mic qualit
 - https://www.youtube.com/@BrannoDev/featured godot
 - https://youtu.be/tO2gthp45MA?si=ZC2X4Fl0Ps0GWUmY All 219 Godot Nodes Explained In 42 Minutes 
 - brackeys offers a pretty good godot tutorials also, ill paste the link here later
+- [swydev, teaches godot](https://www.youtube.com/@swydev/videos)
 # Programming in General
 - https://www.youtube.com/@arfyslowy/videos This guy is soooooo cool!!
 - [https://www.youtube.com/@KodingAjaDulu] Koding aja dulu
@@ -93,3 +94,8 @@ Matt KØDVB](https://www.youtube.com/@mattkdvb5154/playlists)
 
 # Goat 
 [Onno Purbo](https://www.youtube.com/@OnnoCenter) Channel edukasi berfokus pada IT dan ada [LMS](http://opencourse.itts.ac.id/)nya yang terbuka untuk umum THE GOATTTT FRRR
+[Muhammad Iqbal Alaydrus](https://www.youtube.com/@iqbal.alaydrus/videos) talks about tech, networkign, sot and hardware, he deserve to be here ngl 
+# Cybersecurity
+- [kamsib](https://www.youtube.com/@kamsib/videos) belajar cyber security indonesia
+# Pixelart
+- [Mochibeans](https://www.youtube.com/@Mochibeans) he teach pixelart method and something like 

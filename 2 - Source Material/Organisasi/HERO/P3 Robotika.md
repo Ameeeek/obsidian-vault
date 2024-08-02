@@ -1,3 +1,9 @@
+---
+tags:
+  - Organization
+  - Leadership
+  - Hero
+---
 # Materi Kepemimpinan Organisasi 
 
 # Pengertian Organisasi

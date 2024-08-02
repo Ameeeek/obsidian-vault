@@ -1,3 +1,9 @@
+---
+tags:
+  - Robotics
+  - Organization
+  - Hero
+---
 Resistor
 Kapasitor
 Indukstor

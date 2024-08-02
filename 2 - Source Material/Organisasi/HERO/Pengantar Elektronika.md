@@ -1,3 +1,9 @@
+---
+tags:
+  - Hero
+  - Robotics
+  - Organization
+---
 Elektronika adlah bidang yang mempelajaria dan memanfaatkan aliran elektron untuk memproses dan mengendalikan informasi. Dari perangkat sederhana hingga canggih, elektronika telah menjadi bagian tak terpisahkan dari kehidupan sehari-hari kita. 
 
 elektron = partikel subatom yang bermuatan negatif

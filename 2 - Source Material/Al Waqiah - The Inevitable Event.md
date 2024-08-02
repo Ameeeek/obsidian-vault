@@ -1,5 +1,6 @@
 ---
-Ticket: "[[Quran]]"
+tags:
+  - Al-Quran
 ---
 
 # Al Waqiah - The Inevitable Event

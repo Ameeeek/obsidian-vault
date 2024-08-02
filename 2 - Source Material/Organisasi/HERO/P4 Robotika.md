@@ -1,3 +1,9 @@
+---
+tags:
+  - Hero
+  - Robotics
+  - Organization
+---
 # Sensor dan Aktuator
 Sensor : Perangkat yang mendeteksi atau menanggapi suatu bentuk masukan dari lingkungan fisik. 
 Aktuator : perangkat yang bertindak sebagai pemancar atau penggerak dalam sistem. Peralatan mekanis yang dapat digunakan untuk mengubah tenaga listrik maupun fluida menjadi kuantitas lain seperti kecepatan dan perangkat elektromagnetik sehingga mampu menghasilkan energi kinetik.
