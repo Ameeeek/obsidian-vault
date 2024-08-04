@@ -17,3 +17,4 @@
 - [[Day 12 - SQL and Python]]
 - [[Day 14 - Flask, Cybersecurity]]
 - [[Day 11 - Algorithms and Memory]]
+- [[Day 16 & 17- What is Blockchain]]

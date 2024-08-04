@@ -11,6 +11,12 @@
 # Backend
 ## Go 
 - [[Go's Basic]]
+# Cybersecurity
+- [[Binary data dan endianness]]
+- [[Dasar Dasar Encoding Data]]
+- [[File signature dan identifikasinya]]
+- [[Kriptografi Classic Cipher]]
+- [[XOR Cipher Dasar]]
 # CTF 
 ## Overthewire
 - [[Overthewire Bandits]]
@@ -25,3 +31,6 @@
 - [[1717846912-MVNR]]
 
 ## RajawaliCTF
+
+## Gemastik 2024 
+- [[Foren - baby structured]]
