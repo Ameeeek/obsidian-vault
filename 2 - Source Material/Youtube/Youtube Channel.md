@@ -40,6 +40,7 @@ https://www.youtube.com/@cristianmihai01/videos web development tutorials like j
 [egardev](https://www.youtube.com/@egardev/videos) Golang 
 [helmi Satria](https://www.youtube.com/@helmisatria/videos) fullstack web dev
 [Ngooding, web dev indo](https://www.youtube.com/@Ngooding/videos)
+[siwhitedust](https://www.youtube.com/@siwhitedust/videos) 
 # Trading 
 [Rizki Aditama](https://www.youtube.com/@RizkiAditama) Really informative
 
