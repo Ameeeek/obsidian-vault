@@ -1,6 +1,10 @@
 # Web Development
 - [[Basic Deployment Website]]
 - [[Basic Seo on-page]]
+- [[Post Category & Eloquent]]
+- [[Database, Migration, & Eloquent]]
+- [[Model & Controller]]
+- [[Struktur Folder, Routes dan View]]
 # Robotics
 ## HERO 
 - [[P3 Robotika]]

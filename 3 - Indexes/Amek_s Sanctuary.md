@@ -1,6 +1,8 @@
 # Self Improvement
 - [[Weekly Study Recap Minggu ke 2 Mei]]
 - [[Weekly Study Recap Minggu ke 4 Mei]]
+- [[Roadmap Learning English]]
+- [[Roadmap Learning Japanese]]
 # Project
 ## Tutu's Takjil
 - [[Tutu_s Takjil]]

@@ -1,0 +1,7 @@
+Teori dan Praktek itu berkesinambungan dan tidak bisa dilepas, teori itu dibuat dari praktek sosial humaniora.
+
+untuk melakukan praktik yang konsisten diperlukan teori. untuk menyempurnakan suatu teori diperlukan juga praktik yang berulang ulang. 
+
+teori sebagai kerangka berfikir sistematis yang menjelaskan sesuatu secara konsisten. sedangkan praktik adalah pengaplikasian atau upaya implementasi dari suatu ilmu, ide, maupun metode dan yang berkaitan. kerangka berfikir baru bisa dikatakan sebagai sebuah teori, apabila telah melewati uji coba atau praktek yang berulang ulang, dan telah diuji dengan berbagai faktor dan juga variabel yang dapat mempengaruhi teori atau segala sesuatu yang akan terjadi selama proses. 
+
+pertanyaannya adalah, terkadang, teori yang dilakukan masih gagal, tidak 100% mirip, dan lain hal. Itu dikarenakan, teori hanyalah alat untuk menjelaskan, dan membedah suatu fenomena, dia tidak bisa dijadikan 100% kitab suci atau guidebook yang akan kita gunakan plek ketiplek copy and paste langsung jadi, dunia bukanlah sebuah laboratorium yang segala hal didalamanya dapat kita kontrol, maka diperlukan berbagai macam proses adaptasi, yang biasanya juga tertera dalam teori, untuk mencapai hasil semaksimal, semendekati dari teori. 

@@ -41,6 +41,9 @@ https://www.youtube.com/@cristianmihai01/videos web development tutorials like j
 [helmi Satria](https://www.youtube.com/@helmisatria/videos) fullstack web dev
 [Ngooding, web dev indo](https://www.youtube.com/@Ngooding/videos)
 [siwhitedust](https://www.youtube.com/@siwhitedust/videos) 
+[tony xhepa](https://www.youtube.com/@tonyxhepaofficial/featured)sell his soul to laravel 
+[kenapa coding](https://www.youtube.com/@kenapacoding/videos) PZN typshi
+[ngooding](https://www.youtube.com/@Ngooding) laravel indo tapi bagus lah itulah
 # Trading 
 [Rizki Aditama](https://www.youtube.com/@RizkiAditama) Really informative
 
@@ -100,3 +103,8 @@ Matt KØDVB](https://www.youtube.com/@mattkdvb5154/playlists)
 - [kamsib](https://www.youtube.com/@kamsib/videos) belajar cyber security indonesia
 # Pixelart
 - [Mochibeans](https://www.youtube.com/@Mochibeans) he teach pixelart method and something like 
+# Design
+- [insightnesia](https://www.youtube.com/@Insightnesia/videos)
+- [kukuhAdy](https://www.youtube.com/@MasKukuhAldy)ui ux
+# Robotika 
+- [global studio mekatronika](https://www.youtube.com/watch?v=Fq4_25wvvuM&list=PL86qxkIbrmiQqTf6GsMWErRfnJNxBHrF4)
